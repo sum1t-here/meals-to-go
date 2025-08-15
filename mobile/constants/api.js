@@ -1,0 +1,1 @@
+export const API_URL = "https://meals-to-go-api.onrender.com/api/"
